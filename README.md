@@ -1,2 +1,2 @@
-# Ex-No-1-MAD-LAB
-LAB PROGRAMS
+# Ex-No-1
+
